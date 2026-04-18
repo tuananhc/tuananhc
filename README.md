@@ -9,7 +9,7 @@
 - Riftbound Card Gallery: A hobby project aims to serve a better filtering and finding card experience compared to Riot's official website, which is more like a static gallery.
   - Built with Next.js 14 on Vercel, backed by AWS Lambda, API Gateway, Cognito, and DynamoDB.
   - It allows users to search and filter 950 cards client-side, manage versioned decks, track match history, and read markdown-powered news posts.
-  - Check it out [here](https://riftbound-gallery.vercel.app/)
+  - Check it out [here](https://riftbound-gallery.vercel.app/) - Codebase [here](https://github.com/tuananhc/Riftbound-Gallery)
 
 ## Current hobby
 
@@ -20,5 +20,5 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anhc/)
 - 🌐 [Portfolio](Not yet)
-- 📧 [email@example.com](ctanh2001@gmail.com)
+- 📧 [Email](ctanh2001@gmail.com)
   
